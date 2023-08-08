@@ -1,5 +1,5 @@
 CUDA_VISIBLE_DEVICES=0 python src/train_bash.py \
-    --model_name_or_path chatglm2-6b \
+    --model_name_or_path ../chatglm2-6b \
     --stage sft \
     --use_v2 \
     --do_train \
