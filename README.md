@@ -58,3 +58,5 @@ pip install -r requirements.txt
 git clone https://huggingface.co/THUDM/chatglm2-6b
 ```
 
+- 最后按照`submit_demo.ipynb`中的代码指示，逐行运行即可
+- Finally，提交`submit.csv`，鲜克有终。
