@@ -55,6 +55,6 @@ pip install -r requirements.txt
 此命令有可能会失效，下载失败可以多试几次，总有一次会成功。相信聪明的你，一定可以，加油！
 
 ```
-git clone https://huggingface.co/THUDM/chatglm-6b
+git clone https://huggingface.co/THUDM/chatglm2-6b
 ```
 
