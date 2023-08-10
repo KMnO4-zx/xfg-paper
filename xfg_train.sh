@@ -13,5 +13,5 @@ CUDA_VISIBLE_DEVICES=0 python src/train_bash.py \
     --logging_steps 10 \
     --save_steps 1000 \
     --learning_rate 5e-5 \
-    --num_train_epochs 4.0 \
+    --num_train_epochs 3.0 \
     --fp16
